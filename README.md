@@ -1,2 +1,2 @@
 # Feature_Engineering
-Describes feature engineering templates for features in datasets
+Describes feature engineering templates for feature discovery in datasets
